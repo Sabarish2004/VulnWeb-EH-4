@@ -5,3 +5,5 @@ if(!$conn){
 }
 ?>
 
+# Database connection file
+
